@@ -1,0 +1,23 @@
+module jkstruct(j,k,clk,q,qbar);
+
+input j,k,clk;
+
+output q,qbar;
+
+initial begin q=1'b1;qbar=1'b0; end
+
+wire x,y,w,z;
+
+assign w=q;
+
+assign z=qbar;
+
+nand n1(x,z,j,clk);
+
+nand n2(y,k,w,clk);
+
+nand n3(q,x,z);
+
+nand n4(qbar,y,w);
+
+endmodule

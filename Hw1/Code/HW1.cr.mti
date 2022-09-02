@@ -1,0 +1,23 @@
+C:/modeltech64_2020.4/examples/Q2.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2020.4/examples/Q2.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module enc_q2
+
+Top level modules:
+	enc_q2
+
+} {} {}} C:/modeltech64_2020.4/examples/Q3.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2020.4/examples/Q3.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module full_adder
+-- Compiling module ripple_carry_adder_subtractor
+
+Top level modules:
+	ripple_carry_adder_subtractor
+
+} {} {}} C:/modeltech64_2020.4/examples/Q1.v {1 {vlog -work work -vopt -stats=none C:/modeltech64_2020.4/examples/Q1.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module jkstruct
+
+Top level modules:
+	jkstruct
+
+} {} {}}

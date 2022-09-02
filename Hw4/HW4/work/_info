@@ -1,0 +1,342 @@
+m255
+K4
+z2
+!s11e vcom 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Roozbeh/Desktop
+T_opt
+!s110 1654533726
+V@8eNmRQI=gV3H2QmNCXm^2
+04 5 8 work tb_bb behavior 1
+=1-50e0853c59bf-629e2e5e-1a7-4408
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1654528672
+VQAnPFfC]k]@kXC?Pl7g0^3
+04 13 8 work stop_watch_tb behavior 1
+=1-50e0853c59bf-629e1aa0-156-4744
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1654531794
+VnnIP=ATccmVHn[l;B5DUH2
+04 7 8 work tb_ones behavior 1
+=1-50e0853c59bf-629e26d2-131-4d60
+R1
+R2
+n@_opt2
+R3
+R0
+Ebcd_2_bin
+Z4 w1654533367
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z7 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z8 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 20
+Z9 dC:/Users/Roozbeh/Desktop/HW4
+Z10 8C:/Users/Roozbeh/Desktop/HW4/Q3.vhd
+Z11 FC:/Users/Roozbeh/Desktop/HW4/Q3.vhd
+l0
+L8 1
+Vl<@_QfT^n>8<BLR>zh@J31
+!s100 X^60Rg9>[8<9]UG6SV<870
+Z12 OL;C;2020.4;71
+32
+Z13 !s110 1654542320
+!i10b 1
+Z14 !s108 1654542320.000000
+Z15 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q3.vhd|
+Z16 !s107 C:/Users/Roozbeh/Desktop/HW4/Q3.vhd|
+!i113 0
+Z17 o-work work -2002 -explicit
+Z18 tExplicit 1 CvgOpt 0
+Abehavioral
+R5
+R6
+R7
+R8
+DEx4 work 9 bcd_2_bin 0 22 l<@_QfT^n>8<BLR>zh@J31
+!i122 20
+l18
+L16 10
+VYV0NodzA1mHcVf=i_K8F52
+!s100 W0Y[N=A1Q@Lm8VhBo;3MB2
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 0
+R17
+R18
+Emain
+Z19 w1654528049
+R6
+R5
+R7
+R8
+!i122 0
+R9
+Z20 8C:/Users/Roozbeh/Desktop/HW4/Q4.vhd
+Z21 FC:/Users/Roozbeh/Desktop/HW4/Q4.vhd
+l0
+L15 1
+VDI90c9`;<>gmN[c8[EfL41
+!s100 MBBQnE82hgH;[8UWNH4bj3
+R12
+32
+Z22 !s110 1654528073
+!i10b 1
+Z23 !s108 1654528073.000000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q4.vhd|
+Z25 !s107 C:/Users/Roozbeh/Desktop/HW4/Q4.vhd|
+!i113 0
+R17
+R18
+Abehavioral
+R6
+R5
+R7
+R8
+DEx4 work 4 main 0 22 DI90c9`;<>gmN[c8[EfL41
+!i122 0
+l30
+L23 66
+V93OEjT_fblL3SB`?:ch@H3
+!s100 9oMOOkWF:V]<87cz^`B]U3
+R12
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R17
+R18
+Enum_ones_for
+Z26 w1654531714
+Z27 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R7
+R8
+!i122 18
+R9
+Z28 8C:/Users/Roozbeh/Desktop/HW4/Q2.vhd
+Z29 FC:/Users/Roozbeh/Desktop/HW4/Q2.vhd
+l0
+L5 1
+VPS5g7:RWeg=Pmz`_5V7T[2
+!s100 Ao6;3mbUXn2C:JI=b6;Eg0
+R12
+32
+Z30 !s110 1654542319
+!i10b 1
+Z31 !s108 1654542319.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q2.vhd|
+Z33 !s107 C:/Users/Roozbeh/Desktop/HW4/Q2.vhd|
+!i113 0
+R17
+R18
+Abehavioral
+R27
+R7
+R8
+DEx4 work 12 num_ones_for 0 22 PS5g7:RWeg=Pmz`_5V7T[2
+!i122 18
+l12
+L10 15
+VcKaJe>AiQVk:5idNNieQL3
+!s100 ;f?f0PCoS_VUCM7>mPU092
+R12
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 0
+R17
+R18
+Estop_watch
+Z34 w1654528621
+R6
+R5
+R7
+R8
+!i122 16
+R9
+R20
+R21
+l0
+L14 1
+VLWfD3E>FgT9>c<iM=3OdU2
+!s100 jfe9k1aD1AflGS9OQeMn^0
+R12
+32
+R30
+!i10b 1
+R31
+R24
+R25
+!i113 0
+R17
+R18
+Abehavioral
+R6
+R5
+R7
+R8
+DEx4 work 10 stop_watch 0 22 LWfD3E>FgT9>c<iM=3OdU2
+!i122 16
+l30
+L22 95
+VPm^39;_kPk8jZej@h@kMN3
+!s100 ccTaIoMdjOkBHNZSIR6bb2
+R12
+32
+R30
+!i10b 1
+R31
+R24
+R25
+!i113 0
+R17
+R18
+Estop_watch_tb
+Z35 w1654528653
+R7
+R8
+!i122 17
+R9
+Z36 8C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd
+Z37 FC:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd
+l0
+L9 1
+V4GggiXh24oLUaQHn9U84a1
+!s100 fizb[W5omPeSDf2lU`mM<1
+R12
+32
+R30
+!i10b 1
+R31
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd|
+Z39 !s107 C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 13 stop_watch_tb 0 22 4GggiXh24oLUaQHn9U84a1
+!i122 17
+l37
+L12 88
+V3A>o4P18fcg0j9[>fY3PC3
+!s100 _=798J=;FIPze3CIT9Uez1
+R12
+32
+R30
+!i10b 1
+R31
+R38
+R39
+!i113 0
+R17
+R18
+Etb_bb
+Z40 w1654533386
+R7
+R8
+!i122 21
+R9
+Z41 8C:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd
+Z42 FC:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd
+l0
+L4 1
+V1KP?Taj6Mgg2:oz4MU4_S3
+!s100 >fWPVLIJ??7>1GOmDRk2m2
+R12
+32
+R13
+!i10b 1
+R14
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd|
+Z44 !s107 C:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+Z45 DEx4 work 5 tb_bb 0 22 1KP?Taj6Mgg2:oz4MU4_S3
+!i122 21
+l25
+Z46 L7 43
+Z47 VCb0zlegnLe[:PFJ@7KD1X3
+Z48 !s100 [BSeR<eC?V^8]W6E<d=hY0
+R12
+32
+R13
+!i10b 1
+R14
+R43
+R44
+!i113 0
+R17
+R18
+Etb_ones
+Z49 w1654531771
+R7
+R8
+!i122 19
+R9
+Z50 8C:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd
+Z51 FC:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd
+l0
+L4 1
+Vc@dE^;zW3:>^fGiZ6D;YS2
+!s100 OJRDiWglfcc4DCE[zFgiM1
+R12
+32
+R30
+!i10b 1
+R31
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd|
+Z53 !s107 C:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd|
+!i113 0
+R17
+R18
+Abehavior
+R7
+R8
+DEx4 work 7 tb_ones 0 22 c@dE^;zW3:>^fGiZ6D;YS2
+!i122 19
+l19
+L7 34
+VQ^jG1TJ69HEYA1;WPULl;1
+!s100 4ia?azO1S7MWZ]d0@88Gb0
+R12
+32
+R30
+!i10b 1
+R31
+R52
+R53
+!i113 0
+R17
+R18

@@ -1,0 +1,22 @@
+C:/Users/Roozbeh/Desktop/HW3/Q2.v {1 {vlog -work work -vopt -stats=none C:/Users/Roozbeh/Desktop/HW3/Q2.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module seq_detector
+
+Top level modules:
+	seq_detector
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW3/Q3.v {1 {vlog -work work -vopt -stats=none C:/Users/Roozbeh/Desktop/HW3/Q3.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Vending
+
+Top level modules:
+	Vending
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW3/Q2_tb.v {1 {vlog -work work -vopt -stats=none C:/Users/Roozbeh/Desktop/HW3/Q2_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

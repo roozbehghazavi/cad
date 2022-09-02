@@ -1,0 +1,69 @@
+C:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q2_tb.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_ones
+-- Compiling architecture behavior of tb_ones
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW4/Q3.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q3.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity bcd_2_bin
+-- Compiling architecture Behavioral of bcd_2_bin
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW4/Q4.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q4.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity stop_watch
+-- Compiling architecture Behavioral of stop_watch
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q3_tb.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_bb
+-- Compiling architecture behavior of tb_bb
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW4/Q1.vhd {0 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q1.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Compiling entity n_in_1_out_xor_gate
+** Error: C:/Users/Roozbeh/Desktop/HW4/Q1.vhd(6): (vcom-1136) Unknown identifier "std_logic".
+** Error: C:/Users/Roozbeh/Desktop/HW4/Q1.vhd(7): (vcom-1136) Unknown identifier "std_logic".
+** Error: C:/Users/Roozbeh/Desktop/HW4/Q1.vhd(8): (vcom-1136) Unknown identifier "std_logic".
+** Error: C:/Users/Roozbeh/Desktop/HW4/Q1.vhd(9): (vcom-1136) Unknown identifier "std_logic".
+** Note: C:/Users/Roozbeh/Desktop/HW4/Q1.vhd(11): VHDL Compiler exiting
+
+} {5.0 9.0} {}} C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd {2 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity stop_watch_tb
+-- Compiling architecture behavior of stop_watch_tb
+** Warning: C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd(68): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd(74): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd(82): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd(83): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/Roozbeh/Desktop/HW4/Q4_tb.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/Roozbeh/Desktop/HW4/Q2.vhd {1 {vcom -work work -2002 -explicit -vopt -stats=none C:/Users/Roozbeh/Desktop/HW4/Q2.vhd
+Model Technology ModelSim SE-64 vcom 2020.4 Compiler 2020.10 Oct 13 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity num_ones_for
+-- Compiling architecture Behavioral of num_ones_for
+
+} {} {}}

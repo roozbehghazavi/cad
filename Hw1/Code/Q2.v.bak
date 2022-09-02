@@ -1,0 +1,37 @@
+module enc_q2(in, f);
+
+input [3:0] in;
+output f;
+
+wire [7:0] decoder;
+wire [2:0] encoder;
+wire enable, a, aNot, b, bNot, c, cNot, d, dNot, T1, T2, T3 ,T4 ,p1 ,p2 ,p3;
+
+not(aNot, in[3]);
+not(bNot, in[2]);
+not(cNot, in[1]);
+not(dNot, in[0]);
+not(enable, in[2]);
+
+and a1(decoder[0], a, aNot, bNot, enable);
+and a2(decoder[1], a, aNot, b, enable);
+and a3(decoder[2], a, a, bNot, enable);
+and a4(decoder[3], a, a, b, enable);
+and a5(decoder[4], aNot, aNot, bNot, enable);
+and a6(decoder[5], aNot, aNot, b, enable);
+and a7(decoder[6], aNot, a, bNot, enable);
+and a8(decoder[7], aNot, a, b, enable);
+or o1(tmp1, decoder[4], decoder[5], decoder[6], decoder[7]);
+or o2(tmp2, decoder[2], decoder[3], decoder[6], decoder[7]);
+or o3(tmp3, decoder[1], decoder[3], decoder[5], decoder[7]);
+and (encoder[0], enable, p1);
+and (encoder[1], enable, p2);
+and (encoder[2], enable, p3);
+and (T1, encoder[0], cNot, dNot); 
+and (T2, encoder[1], cNot, d);
+and (T3, encoder[2], c, dNot);
+and (T4,c,d, 1);
+
+or (T1, T2, T3, T4,f);
+
+endmodule
